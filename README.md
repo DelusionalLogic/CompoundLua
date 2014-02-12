@@ -1,10 +1,10 @@
-CompundLua
+CompoundLua
 ==========
 
 Simple compound statement solver in lua
 
 Usage
-==========
+----------
 
 To run the program simply execute discrete.lua, the only parameter needed is the statement you would like to evalualte. If this is not provided a default statement of `If p then q`
 
